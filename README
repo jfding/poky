@@ -47,3 +47,5 @@ repository.
 
 Note: The scripts directory should be treated with extra care as it is a mix
       of oe-core and poky-specific files.
+
+Just a test
