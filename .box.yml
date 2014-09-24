@@ -1,4 +1,3 @@
 container: opensuse131
 run:
-  - source ./oe-init-build-env
-  - bitbake -k core-image-minimal
+  - source ./oe-init-build-env && bitbake -k core-image-minimal
